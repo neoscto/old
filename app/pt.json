@@ -1,0 +1,81 @@
+{
+  "nav": {
+    "one": "Início",
+    "two": "Solução",
+    "three": "Comparação",
+    "cta": "Contate-nos"
+  },
+  "hero": {
+    "title": "Conecte-se a parques solares e economize 36%",
+    "description": "A Neos permite que você compre energia diretamente de grandes parques solares. Reduza suas emissões e custos sem nenhuma instalação, de maneira instantânea e eficaz.",
+    "cta": "Agende uma Ligação"
+  },
+  "mentions": "Confiado por",
+  "process": {
+    "title": "O Processo da Neos",
+    "subtitle": "Ao contrário das instalações de telhado, que podem levar até 6 meses, a Neos conecta você instantaneamente à energia de parques solares.",
+    "processes": {
+      "one": "Calculamos suas economias",
+      "two": "Escolha sua assinatura",
+      "three": "Economize com Energia Solar"
+    }
+  },
+  "calculator": {
+    "title": "Calcule Seu Impacto",
+    "subtitle": "Com uma assinatura Neos, sua empresa pode alcançar os seguintes objetivos:",
+    "one": "Economia em sua conta de eletricidade",
+    "two": "Toneladas de CO2 reduzidas",
+    "three": "Energia Renovável"
+  },
+  "advantages": {
+    "title": "Vantagens",
+    "subtitle": "Os usuários da Neos se beneficiam de energia solar limpa e acessível. Ao se conectar a parques solares, alcançamos economias de escala, reduzindo ainda mais o preço.",
+    "options": {
+      "one": "A energia mais acessível disponível",
+      "two": "Transição energética",
+      "three": "Nenhuma instalação necessária",
+      "four": "Conexão instantânea"
+    }
+  },
+  "table": {
+    "title": "O Que nos Diferencia",
+    "subtitle": "Tudo o que importa",
+    "titles": {
+      "first": "Outros Provedores",
+      "second": "Autoconsumo"
+    },
+    "labels": {
+      "first": "Preço mais baixo do mercado",
+      "second": "Economias de escala",
+      "third": "Acesso ilimitado",
+      "fourth": "Nenhuma instalação necessária",
+      "fifth": "Economia por meio de energia solar",
+      "sixth": "Créditos de Energia Renovável"
+    }
+  },
+  "contact": {
+    "title": "Fale Conosco",
+    "subtitle": "Nós fornecemos um preço personalizado com base no seu consumo, garantindo economias e consumo renovável. <br /> Mude para a Neos instantaneamente e junte-se à revolução solar.",
+    "subsubtitle": "Informações de Contato",
+    "form": {
+      "businessName": "Nome da Empresa",
+      "enterBusinessName": "Digite o nome da sua empresa",
+      "firstName": "Nome",
+      "enterFirstName": "Digite seu nome",
+      "lastName": "Sobrenome",
+      "enterLastName": "Digite seu sobrenome",
+      "email": "E-mail",
+      "enterEmail": "Digite seu e-mail",
+      "phoneNumber": "Número de Telefone",
+      "enterPhoneNumber": "Digite seu número de telefone",
+      "message": "Mensagem",
+      "writeMessage": "Conte-nos sobre o seu interesse na Neos"
+    }
+  },
+  "blogs": "Conteúdo Educacional para Executivos do Futuro",
+  "footer": "Entre em Contato",
+  "email": "Correio",
+  "phone": "Telefono",
+  "submit": "Selecione um horário",
+  "notify": "Redirecionando você para nosso calendário"
+}
