@@ -1,0 +1,110 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  scroll-behavior: smooth;
+}
+
+@keyframes growLine {
+  0%,
+  10%,
+  100% {
+    width: 0;
+  }
+  50% {
+    width: 50%;
+  }
+  90%,
+  100% {
+    width: 100%;
+  }
+}
+
+@keyframes dot1ColorChange {
+  0%,
+  9%,
+  100% {
+    background-color: #bfbfbf;
+  }
+  10%,
+  99% {
+    background-color: #012f1e;
+  }
+}
+
+@keyframes dot2ColorChange {
+  0%,
+  39%,
+  100% {
+    background-color: #bfbfbf;
+  }
+  40%,
+  99% {
+    background-color: #012f1e;
+  }
+}
+
+@keyframes dot3ColorChange {
+  0%,
+  79%,
+  100% {
+    background-color: #bfbfbf;
+  }
+  80%,
+  99% {
+    background-color: #012f1e;
+  }
+}
+
+@keyframes textColorChange1 {
+  0%,
+  9%,
+  100% {
+    color: #bfbfbf;
+  }
+  10%,
+  99% {
+    color: white;
+  }
+}
+
+@keyframes textColorChange2 {
+  0%,
+  39%,
+  100% {
+    color: #bfbfbf;
+  }
+  40%,
+  99% {
+    color: white;
+  }
+}
+
+@keyframes textColorChange3 {
+  0%,
+  79%,
+  100% {
+    color: #bfbfbf;
+  }
+  80%,
+  99% {
+    color: white;
+  }
+}
+
+.dot:nth-child(2) {
+  animation: textColorChange1 10s infinite;
+}
+
+.dot:nth-child(5) {
+  animation: textColorChange2 10s infinite;
+}
+
+.dot:nth-child(8) {
+  animation: textColorChange3 10s infinite;
+}
+
+/* bro */
+/* bro */
+/* bro */

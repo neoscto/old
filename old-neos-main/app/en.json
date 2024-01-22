@@ -1,0 +1,81 @@
+{
+  "nav": {
+    "one": "Home",
+    "two": "Solution",
+    "three": "Comparison",
+    "cta": "Contact Us"
+  },
+  "hero": {
+    "title": "Connect to Solar Parks and Save 36%",
+    "description": "Neos allows you to purchase energy directly from large solar parks. Reduce your emissions and costs without any installation, instantly and effectively.",
+    "cta": "Schedule a Call"
+  },
+  "mentions": "Trusted by",
+  "process": {
+    "title": "The Neos Process",
+    "subtitle": "Unlike rooftop installations, which can take up to 6 months, Neos instantly connects you to solar park energy.",
+    "processes": {
+      "one": "We Calculate Your Savings",
+      "two": "Choose Your Subscription",
+      "three": "Save with Solar Energy"
+    }
+  },
+  "calculator": {
+    "title": "Calculate Your Impact",
+    "subtitle": "With a Neos subscription, your company can achieve the following goals:",
+    "one": "Savings on your electricity bill",
+    "two": "Tons of CO2 reduced",
+    "three": "Renewable Energy"
+  },
+  "advantages": {
+    "title": "Advantages",
+    "subtitle": "Neos users benefit from clean and affordable solar energy. By connecting to solar parks, we achieve economies of scale, further reducing the price.",
+    "options": {
+      "one": "The most affordable energy available",
+      "two": "Energy transition",
+      "three": "No installation required",
+      "four": "Instant connection"
+    }
+  },
+  "table": {
+    "title": "What Sets Us Apart",
+    "subtitle": "All that matters",
+    "titles": {
+      "first": "Other Providers",
+      "second": "Self-Consumption"
+    },
+    "labels": {
+      "first": "Lowest market price",
+      "second": "Economies of scale",
+      "third": "Unlimited access",
+      "fourth": "No installation required",
+      "fifth": "Savings through solar energy",
+      "sixth": "Renewable Energy Credits"
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "We provide you with a personalized price based on your consumption, ensuring savings and renewable consumption. <br /> Switch to Neos in an instant and join the solar revolution.",
+    "subsubtitle": "Contact Information",
+    "form": {
+      "businessName": "Business Name",
+      "enterBusinessName": "Enter your business name",
+      "firstName": "First Name",
+      "enterFirstName": "Enter your first name",
+      "lastName": "Last Name",
+      "enterLastName": "Enter your last name",
+      "email": "Email",
+      "enterEmail": "Enter your email",
+      "phoneNumber": "Phone Number",
+      "enterPhoneNumber": "Enter your phone number",
+      "message": "Message",
+      "writeMessage": "Tell us about your interest in Neos"
+    }
+  },
+  "blogs": "Educational Content for Future Executives",
+  "footer": "Contact Us",
+  "email": "Email",
+  "phone": "Phone Number",
+  "submit": "Select a time",
+  "notify": "Redirecting you to our calendar"
+}
